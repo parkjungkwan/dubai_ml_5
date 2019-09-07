@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b080fec-3b2a-4ca4-b947-fd4383871912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorflow_test/word_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_test/data/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_test/data/review_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_test/naive_bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_test/web_crawler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tensorflow_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_test/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_test/mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_test/mammal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +29,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ezen\PycharmProjects\mlearn_1\tensorflow_test\data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
