@@ -1,7 +1,9 @@
 class Mammal:
     def __init__(self):
         pass
-    def execute(self):
+
+    @staticmethod
+    def execute():
         import tensorflow as tf
         import numpy as np
         # [털, 날개] -> 기타, 포유류, 조류
