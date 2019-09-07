@@ -62,13 +62,13 @@ class Mammal:
         sess.run(init)
         for step in range(100):
             sess.run(train_op, {X: x_data, Y: y_data})
-            if (step + 1) % 10 == 10:
+            if (step + 1) % 10 == 0:
                 print(step +1, sess.run(cost, {X: x_data, Y: y_data}))
 
         # 결과확인
 
         prediction = tf.argmax(model, 1)
-        target = tf.arg_max(Y, 1)
+        target = tf.argmax(Y, 1)
         print('예측값: ', sess.run(prediction, {X: x_data}))
         print('실제값: ', sess.run(target, {Y: y_data}))
         # tf.argmax : 예측값과 실제값의 행렬에서 tf.argmax 를 이용해 가장 큰 값을 가져옴
