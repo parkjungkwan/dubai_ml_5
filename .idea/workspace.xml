@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b080fec-3b2a-4ca4-b947-fd4383871912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mnist_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/fashion_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/number_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_test/mail_checker_ctrl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_test/mail_checker_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_test/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="6b080fec-3b2a-4ca4-b947-fd4383871912" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
